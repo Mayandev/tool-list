@@ -56,3 +56,10 @@
 
 ![program-fs](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/program-fs.png)
 
+## 命令行工具：[Rich](https://github.com/willmcgugan/rich)
+
+一个命令行工具，该工具支持对命令行终端上的表格、进度条、Markdown、代码高亮、Emoji 表情等不同文本格式进行渲染。
+
+兼容 Windows、Linux、macOS ，同时支持英、中、日、韩文等多种文字。
+
+![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/code-rich.png)

@@ -53,3 +53,11 @@ GitHub：https://github.com/sfsam/Itsycal
 
 
 ![mac-gif-brewery](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/mac-gif-brewery.png)
+
+## 剪切板工具：[iPaste](http://dwz.date/aDwa)
+
+
+Mac 上一款优秀的剪切板工具，全程快捷键操作，支持文本、文件、图片等任意格式，并且可与 iPhone、iPad 同步。
+
+![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/mac-ipaste.png)
+

@@ -51,3 +51,11 @@ iOS 和 Mac 端也有同类产品，推荐使用 [Fliqo](https://fliqlo.com/)
 
 
 ![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/fliqo.001.png)
+
+
+
+## 事项提醒：[微定时](https://github.com/polyrabbit/WeCron)，
+
+往公众号 “微定时” 发一条消息或者一个语音，它就能自动分析出相应的时间，并消息设置提醒。
+
+![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/other-wetask.png)

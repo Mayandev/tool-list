@@ -61,3 +61,11 @@ Windows 上强大的播放器，有着强大的解码能力，支持支持单帧
 
 
 ![win-potplayer](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/win-potplayer.png)
+
+## 护眼工具：[f.lux](https://justgetflux.com/)
+
+WIndows 一款色温调节工具，它根据用户定义的经纬度、邮编或城市名称所在的位置以及一天当中的时间来调整电脑显示器的色温，类似于 iOS 系统上的夜览模式。
+
+下载地址：https://justgetflux.com/
+
+![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/win-flux.png)

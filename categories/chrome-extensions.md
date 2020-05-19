@@ -56,3 +56,13 @@ GitHub：https://github.com/gorhill/uBlock
 ![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/imgus.png)
 
 下载地址：https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=zh-CN
+
+
+
+## 自动加空格：[空格之神](http://dwz.date/aDvE)
+
+插件会自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白，页面浏览起来会更加舒适。
+
+![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/chrome-spacegod.png)
+
+下载地址：http://dwz.date/aDvE

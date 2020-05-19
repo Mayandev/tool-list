@@ -87,3 +87,13 @@
 下载链接：https://www.islide.cc/
 
 ![document-islide-1](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/document-islide-1.png)
+
+
+
+## 知识库：[语雀](https://www.yuque.com/)
+
+一个专业的云端知识库，孵化自蚂蚁金服，目前已是 10 万阿里员工进行文档编写、知识沉淀的标配。可以建一个私密仓库，存放个人笔记；也可以用它来收集和整理资料，构建自己的知识库。
+
+目前已支持 Mac 和 Windows桌面端。
+
+![](https://mayandev.oss-cn-hangzhou.aliyuncs.com/blog/document-yuque.png)
